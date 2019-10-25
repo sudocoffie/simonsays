@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64700ba3-fd33-41bb-a611-1b952b52a04e" name="Default Changelist" comment="" />
+    <list default="true" id="64700ba3-fd33-41bb-a611-1b952b52a04e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/simonsays/Hello.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/simonsays/Hello.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/kotlin/com/simonsays/HelloTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/com/simonsays/HelloTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/simonsays/HelloKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/simonsays/HelloKt.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,6 +17,16 @@
   <component name="CoverageViewManager">
     <option name="myElementSize" value="262" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -19,6 +35,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1ShhERdQimW5qx6Ek7XOWc7otY9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -137,12 +156,26 @@
       <option name="presentableId" value="Default" />
       <updated>1572021623628</updated>
       <workItem from="1572021632601" duration="3793000" />
-      <workItem from="1572025665513" duration="824000" />
+      <workItem from="1572025665513" duration="4957000" />
+      <workItem from="1572031315652" duration="27000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/simonsays$HelloTest_IsOne.ic" NAME="HelloTest.IsOne Coverage Results" MODIFIED="1572022796611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

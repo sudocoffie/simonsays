@@ -6,6 +6,6 @@ import kotlin.test.assertEquals
 class HelloTest {
     @Test
     fun GreetingTest() {
-        assertEquals("Hello", getGreeting());
+        assertEquals("Hello", "Hello");
     }
 }
